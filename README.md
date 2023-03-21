@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sarah.</h1>
 <h3 align="center">a software engineering student</h3>
 
-- 🔭 I’m currently working on **a traffic lights control system for a project at my university.**
+- 🔭 I recently worked on **a traffic lights control system for a project at my university.**
 
 - 🌱 I’m currently learning **3D modeling in Blender.**
 
