@@ -3,7 +3,7 @@
 
 - 🔭 I recently worked on **a traffic lights control system for a project at my university.**
 
-- 🌱 I’m currently learning **3D modeling in Blender.**
+- 🌱 I’m currently learning **C# for Modding.**
 
 - ⚡ Fun fact **I'm a cat person. I like gaming and modifying games to my liking.** 
 
