@@ -3,7 +3,7 @@
 
 - 🔭 I recently worked on **a traffic lights control system for a project at my university.**
 
-- 🌱 I’m currently learning **C# for Modding.**
+- 🌱 I’m currently learning **C# for Game Development and Swing for App Development.**
 
 - ⚡ Fun fact **I'm a cat person. I like gaming and modifying games to my liking.** 
 
