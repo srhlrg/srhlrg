@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sarah.</h1>
 <h3 align="center">a software engineering student</h3>
 
-- 🔭 I recently worked on **a traffic lights control system for a project at my university.**
+- 🔭 I recently worked on **an IOS app called Stalker.**
 
-- 🌱 I’m currently learning **C# for Game Development and Swing for App Development.**
+- 🌱 I’m currently learning **working with the frameworks avalonia and electron.net as well as using the win32 api. **
 
 - ⚡ Fun fact **I'm a cat person. I like gaming and modifying games to my liking.** 
 
