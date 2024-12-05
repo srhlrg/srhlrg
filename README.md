@@ -3,7 +3,7 @@
 
 - 🔭 I recently worked on **Gecho - a game recognition software that lists songs and soundtracks related to the game you're playing.**
 
-- 🌱 I’m currently learning **working with the frameworks avalonia and electron.net as well as using the win32 api. **
+- 🌱 I’m currently learning **working with the frameworks avalonia and electron.net as well as using the win32 api.**
 
 - ⚡ Fun fact **I'm a cat person. I like gaming and modifying games to my liking.** 
 
