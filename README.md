@@ -3,7 +3,7 @@
 
 - 🔭 I recently worked on **a simulation software that simulates crop growth on mars and compares it to current data from earth**
 
-- 🌱 I’m currently learning **working with the frameworks avalonia and electron.net as well as using the win32 api.**
+- 🌱 I’m currently **working with the frameworks avalonia and electron.net as well as using the win32 api.**
 
 - ⚡ Fun fact **I'm a cat person. I like gaming and modifying games to my liking.** 
 
