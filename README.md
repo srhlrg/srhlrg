@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sarah.</h1>
 <h3 align="center">a software engineering student</h3>
 
-- 🔭 I recently worked on **Gecho - a game recognition software that lists songs and soundtracks related to the game you're playing.**
+- 🔭 I recently worked on **a simulation software that simulates crop growth on mars and compares it to current data from earth**
 
 - 🌱 I’m currently learning **working with the frameworks avalonia and electron.net as well as using the win32 api.**
 
